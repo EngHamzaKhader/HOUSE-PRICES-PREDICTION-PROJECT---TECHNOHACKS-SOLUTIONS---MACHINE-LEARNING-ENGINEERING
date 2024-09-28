@@ -1,0 +1,2 @@
+# TECHNOHACKS-SOLUTIONS---MACHINE-LEARNING-ENGINEERING---House-Prices-Prediction-Project
+I Developed a House Price Prediction model using XGBoost, focusing on hyperparameter tuning and GPU acceleration for enhanced performance. The project includes data cleaning, exploratory analysis, and feature engineering. Visualizations were created to assess model accuracy and interpret results. Final predictions are saved for easy submission.
